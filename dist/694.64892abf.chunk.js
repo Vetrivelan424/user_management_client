@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemployee=self.webpackChunkemployee||[]).push([[694],{1694:(e,a,t)=>{t.r(a),t.d(a,{default:()=>n});var c=t(6540),r=t(7036),s=t(7767);function n(){(0,s.Zp)();const e=(0,s.zy)().search;return new URLSearchParams(e).get("user_id"),c.createElement("div",{className:"m-4 "},c.createElement("div",{className:""},c.createElement(r.A,{page:"add_customer"})))}}}]);
+//# sourceMappingURL=694.64892abf.chunk.js.map
