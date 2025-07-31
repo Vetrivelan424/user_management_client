@@ -108,7 +108,7 @@ const UserLayout = (props) => {
       // onMouseLeave={handleMouseLeave}
         className={`user-aside-container ${show?'aside-toggle':''}`}>
      <div className='user-panel-left-logo-sm '>
-      <img className={show?'show-container slide-in-left':'show-container-2 slide-in-left'} src={show ?tvsLogo:tvsLogo1} alt="TVSLogo" />
+      <img className={show?'show-container slide-in-left':'show-container-2 slide-in-left'} src={show ?tvsLogo1:tvsLogo1} alt="TVSLogo" />
       </div>
       <ul>
 
