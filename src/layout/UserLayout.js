@@ -60,7 +60,7 @@ const UserLayout = (props) => {
         <div>
         </div>
         <div>
-  <p className='head-tittle'>Employees <span className='red-color'>Central</span> </p>
+  <p className='head-tittle'>Flip <span className='red-color'>Central</span> </p>
         </div>
         <div className="d-flex align-items-center justify-content-end height100" >
         <div id="menu" className={`btn-reset menu-toggle-container ${show ?'menu-toggle':'menu-transition'}`} onClick={(e) => {
